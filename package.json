@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UppalPuneet/individual_project_comp351.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UppalPuneet/individual_project_comp351/issues"
+  },
+  "homepage": "https://github.com/UppalPuneet/individual_project_comp351#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "npm": "^7.6.3"
+  }
+}

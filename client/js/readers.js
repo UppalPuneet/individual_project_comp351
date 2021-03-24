@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3000/api/quotes';
+const URL = 'https://uppalpuneet.com/project/api/quotes';
 
 function showQuotes() {
   const xhr = new XMLHttpRequest();
